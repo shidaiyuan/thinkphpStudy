@@ -1,4 +1,4 @@
-![](https://box.kancloud.cn/5a0aaa69a5ff42657b5c4715f3d49221) 
+![](https://box.kancloud.cn/5a0aaa69a5ff42657b5c4715f3d49221)
 
 ThinkPHP 5.1（LTS版本） —— 12载初心，你值得信赖的PHP框架
 ===============
@@ -61,7 +61,7 @@ composer update topthink/framework
 ## 在线手册
 
 + [完全开发手册](https://www.kancloud.cn/manual/thinkphp5_1/content)
-+ [升级指导](https://www.kancloud.cn/manual/thinkphp5_1/354155) 
++ [升级指导](https://www.kancloud.cn/manual/thinkphp5_1/354155)
 
 ## 目录结构
 
@@ -86,7 +86,7 @@ www  WEB部署目录（或者子目录）
 │  ├─module_name        模块配置目录
 │  │  ├─database.php    数据库配置
 │  │  ├─cache           缓存配置
-│  │  └─ ...            
+│  │  └─ ...
 │  │
 │  ├─app.php            应用配置
 │  ├─cache.php          缓存配置
